@@ -1,0 +1,61 @@
+NOTICE
+
+Impause
+Copyright (c) 2025 Impause
+
+================================================================================
+
+This software is a fork of Maybe Finance, an open-source personal finance
+application, and is based on Maybe Finance version 0.6.0.
+
+Original Project:
+  Project: Maybe Finance
+  Copyright (c) 2024 Maybe Finance Inc.
+  Repository: https://github.com/maybe-finance/maybe
+  License: GNU Affero General Public License v3.0 (AGPLv3)
+
+This fork is distributed under the same AGPLv3 license as the original project.
+
+================================================================================
+
+TRADEMARK NOTICE
+
+"Maybe" is a trademark of Maybe Finance Inc. This fork does not use the Maybe
+trademark or branding assets. This project is NOT affiliated with, endorsed by,
+or associated with Maybe Finance Inc.
+
+================================================================================
+
+ATTRIBUTION REQUIREMENTS
+
+This software includes significant components from Maybe Finance, which are
+used under the terms of the GNU Affero General Public License v3.0 (AGPLv3).
+
+In accordance with AGPLv3 Section 5, this modified version carries prominent
+notices stating:
+  1. That it has been modified from the original Maybe Finance application
+  2. The date of modification
+  3. That it is released under the AGPLv3 license
+
+================================================================================
+
+SOURCE CODE AVAILABILITY
+
+In accordance with AGPLv3 Section 13, users interacting with this software
+remotely through a computer network are provided the opportunity to receive
+the Corresponding Source of this version.
+
+Source code for this application is available at:
+  [Add your repository URL here when published]
+
+================================================================================
+
+THIRD-PARTY COMPONENTS
+
+This software may include third-party components with their own copyright
+notices and license terms. Please refer to the individual component licenses
+for details.
+
+================================================================================
+
+For the complete license terms, see the LICENSE file in this repository.

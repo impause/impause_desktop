@@ -1,4 +1,4 @@
-module Maybe
+module Impause
   class << self
     def version
       Semver.new(semver)
@@ -14,7 +14,7 @@ module Maybe
 
     private
       def semver
-        "0.6.0"
+        "1.0.0"
       end
   end
 end
