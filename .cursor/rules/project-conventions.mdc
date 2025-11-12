@@ -1,9 +1,9 @@
 ---
-description: 
-globs: 
+description:
+globs:
 alwaysApply: true
 ---
-This rule serves as high-level documentation for how you should write code for the Maybe codebase. 
+This rule serves as high-level documentation for how you should write code for the Impause codebase. 
 
 ## Project Tech Stack
 
@@ -23,7 +23,7 @@ This rule serves as high-level documentation for how you should write code for t
 
 ## Project conventions
 
-These conventions should be used when writing code for Maybe.
+These conventions should be used when writing code for Impause.
 
 ### Convention 1: Minimize dependencies, vanilla Rails is plenty
 
